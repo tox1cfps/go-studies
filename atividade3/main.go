@@ -16,5 +16,4 @@ func main() {
 
 	fmt.Println("Novo valor de A: ", a)
 	fmt.Println("Novo valor de B: ", b)
-
 }
