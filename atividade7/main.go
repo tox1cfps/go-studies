@@ -12,5 +12,5 @@ func main() {
 		Sara += 0.03
 		ano++
 	}
-	fmt.Printf("Francisco vai ser mais alto que Sara em %d anos. \n", ano)
+	fmt.Printf("Sara vai ser mais alta que Francisco em %d anos. \n", ano)
 }
