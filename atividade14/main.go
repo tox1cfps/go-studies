@@ -13,5 +13,5 @@ func main() {
 	distancia := Tempo * VelocidadeMedia
 	litrosUsados := distancia / 12
 
-	fmt.Printf("%0.2f Litros serão gastos em %.02f Kilometros rodados em uma média de %.02f KM/H em %.02f Horas", litrosUsados, distancia, VelocidadeMedia, Tempo)
+	fmt.Printf("%0.2f Litros serão gastos em %.02f Kilometros rodados em uma média de %.02f KM/H em %.02f Horas\n", litrosUsados, distancia, VelocidadeMedia, Tempo)
 }

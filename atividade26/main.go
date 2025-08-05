@@ -13,5 +13,6 @@ func main() {
 	r3 := c * pesoC
 	soma := pesoA + pesoB + pesoC
 	media := (r + r2 + r3) / soma
-	fmt.Printf("MEDIA = %.1f", media)
+	fmt.Printf("MEDIA = %.1f\n", media)
 }
+
